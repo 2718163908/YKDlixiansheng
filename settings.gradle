@@ -1,2 +1,4 @@
+include ':chouqutwo'
+include ':chouquone'
 include ':app'
 rootProject.name = "Xiaoshixun"
